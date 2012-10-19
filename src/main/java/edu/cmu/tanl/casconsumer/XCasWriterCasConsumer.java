@@ -72,9 +72,9 @@ public class XCasWriterCasConsumer extends CasConsumer_ImplBase {
             + (String) getConfigParameterValue(PARAM_OUTPUTFILE));
     if (!mOutputFile.exists()) {
       try {
-        mOutputFile.createNewFile();
+          mOutputFile.createNewFile();
       } catch (IOException e) {
-        e.printStackTrace();
+          e.printStackTrace();
       }
     }
 
