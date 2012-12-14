@@ -27,7 +27,7 @@
       <nameValuePair>
         <name>OutputDirectory</name>
         <value>
-          <string>src/main/resources/data</string>
+          <string>data</string>
         </value>
       </nameValuePair>
       <nameValuePair>

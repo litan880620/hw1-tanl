@@ -21,7 +21,7 @@
       <nameValuePair>
         <name>Path</name>
         <value>
-          <string>src/main/resources/data/genetag.hmmchunker</string>
+          <string>data/genetag.hmmchunker</string>
         </value>
       </nameValuePair>
     </configurationParameterSettings>
