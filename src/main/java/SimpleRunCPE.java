@@ -41,6 +41,7 @@ public class SimpleRunCPE extends Thread {
    * The CPE instance.
    */
   private CollectionProcessingEngine mCPE;
+  
 
   /**
    * Start time of CPE initialization
